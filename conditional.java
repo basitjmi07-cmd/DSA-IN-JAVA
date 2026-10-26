@@ -65,8 +65,8 @@ static void main(){
 // System.out.println(status);
 
 System.out.println("enter the valueof day");
-Scanner sc= new Scanner(System.in);
-int day=sc.nextInt();
+Scanner Sc= new Scanner(System.in);
+int day=Sc.nextInt();
 
 switch(day){
     case 1:
